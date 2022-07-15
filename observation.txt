@@ -1,0 +1,14 @@
+1.) Can swing sword in air. 
+2.) Can move forward in midair.
+3.) Game restarts automatically everytime a player gets killed.
+4.) There is no limit on number of rounds -> maximum rounds = 3 added
+5.) Only way to quite game is to close game window -> 
+    now game can also be quitted by beating either player 3 times.
+6.) In place movement of warrior and wizard even when no button is pressed.
+7.) Methods in fighter class: load_images, move, update, attack, 
+    update_action,  draw
+8.) After a player is killed, There is a cooldown period, before
+start of next round. During cooldown period word victory, winner player
+and lost player ashes are shown.
+9.) Only png images with multiple image are useful. Other are useless
+    thus removed them.

@@ -1,0 +1,8 @@
+1.) Also try to understand how progammer of this game was able to 
+ form idea and created this game from scratch. Like what involved 
+ in creating those assests.
+ 2.) Use dedicated time slots for single task only. Like in this slots
+  dedicate your effort to understand code. Don't switch task such as
+  reading documentation for understanding concept of class in python.
+3.) Don't engage in ego with unrelevant difficult concept. Only
+    engage with a concept when it is necessary.
